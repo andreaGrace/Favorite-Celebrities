@@ -1,0 +1,80 @@
+h1 {
+ margin-bottom: 12%   
+    
+}
+
+body {
+
+background: url(blueflames.jpg);
+background-size: 100%;
+border:dotted #B6E0EF 8px;
+
+ }
+    
+
+#tamar {
+    border:solid white 5px;
+    height: 200px;
+    width: 200px;
+    background-color:#191970;
+    padding:30px;
+    margin:20;
+    border-radius: 15px;
+    
+    
+} 
+
+#rihanna {
+    border:solid #5EE1D4 5px;
+    height: 200px;
+    width:200px;
+    background-color:#191970;
+    padding:30px;
+    margin:20;
+    border-radius: 15px;
+
+}
+
+#johann {
+    border:solid #718ADE 5px;
+    height: 200px;
+    width: 200px;
+    background-color:#191970;
+    padding:30px;
+    margin:20;
+    border-radius: 15px;
+}
+
+#dulce{
+    border:solid #ADEFDD 5px;
+    height: 190px;
+    width: 190px;
+    background-color:#191970;
+    padding:30px;
+    margin:20;
+    border-radius: 15px;
+}
+
+
+#gorgeous {
+    border: solid #BEBDD5 5px;
+    height: 200px;
+    width: 200px;
+    background-color:#191970;
+    padding:30px;
+    margin:20;
+    border-radius: 15px;
+}
+
+#line1 {
+    
+font-size: 50px;
+color:white ;
+text-decoration: underline;
+    
+}
+
+#firstrow {
+    
+    
+}
